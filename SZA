@@ -1,0 +1,3 @@
+getgenv().FillColor = Color3.fromRGB(255, 255, 255) -- Change this to your color that you desire.
+getgenv().OutlineColor = Color3.fromRGB(0, 255, 0) -- Change this to your color that you desire.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YcIayAlt/Rooftop-2/main/Bruno%20mars"))()
